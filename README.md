@@ -1,6 +1,8 @@
 # nasa_images_explorer
 
 A new Flutter project.
+Aluno: 
+Natanael Lucas Secundo de Sousa
 
 ## Getting Started
 
